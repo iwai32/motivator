@@ -36,7 +36,7 @@
 |  3  |  カテゴリid  |  category_id  |  integer  |  ×  |    |    | 
 |  4  | ポイント   |  point  |  varchar  |  ×  |    |    | 
 |  5  |  投稿日  |  posted_date  |  datetime  |  ×  |    |    | 
-|  6  |  学習時間  |  study_time  |  integer  |  ×  |    |    | 
+|  6  |  学習時間  |  study_time  |  integer  |  ×  |    |  時間をミリ秒で格納  | 
 |  7  |  削除日  |  deleted_at  |  timestamp  |  ○  |    |    | 
 |  8  |  作成日  |  created_at  |  timestamp  |  ○  |    |    | 
 |  9  |  更新日  |  updated_at  |  timestamp  |  ○  |    |    | 
