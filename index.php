@@ -7,6 +7,5 @@
   <title>Document</title>
 </head>
 <body>
-<p>github flow test</p>
 </body>
 </html>
